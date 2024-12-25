@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_view">#20245F</color>
+    <color name="background_button">#050728</color>
+    <color name="hint_text">#5A5A5A</color>
+    <color name="high_priority">#7A0000</color>
+    <color name="middle_priority">#7B4001</color>
+    <color name="low_priority">#007A04</color>
+</resources>
